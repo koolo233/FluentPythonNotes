@@ -2,9 +2,9 @@
 Notes for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 
 ## TODO List
-- [ ] [Python数据模型](./01_PythonDataModel/01_PythonDataModel.ipynb)
-- [ ] [序列构成的数组（An array of sequences）](./02_AnArrayofSequences/02_AnArrayofSequences.ipynb)
-- [ ] 字典和集合（Dictionaries and sets）
+- [x] [Python数据模型](./01_PythonDataModel/01_PythonDataModel.ipynb)
+- [x] [序列构成的数组（An array of sequences）](./02_AnArrayofSequences/02_AnArrayofSequences.ipynb)
+- [x] [字典和集合（Dictionaries and sets）](./03_DictionariesAndSets/03_DictionariesAndSets.ipynb)
 - [ ] 文本和字节序列（Text and bytes）
 - [ ] 一等函数（First-class functions）
 - [ ] 使用一等函数实现设计模式（Design patterns with first class functions）
