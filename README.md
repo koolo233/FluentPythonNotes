@@ -2,7 +2,7 @@
 Notes for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 
 ## TODO List
-- [x] [Python数据模型](./01_PythonDataModel/01_PythonDataModel.ipynb)
+- [x] [Python数据模型（the Python Data Model）](./01_PythonDataModel/01_PythonDataModel.ipynb)
 - [x] [序列构成的数组（An array of sequences）](./02_AnArrayofSequences/02_AnArrayofSequences.ipynb)
 - [x] [字典和集合（Dictionaries and sets）](./03_DictionariesAndSets/03_DictionariesAndSets.ipynb)
 - [ ] 文本和字节序列（Text and bytes）
