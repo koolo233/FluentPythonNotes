@@ -7,7 +7,7 @@ Notes for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 - [x] [字典和集合（Dictionaries and sets）](./03_DictionariesAndSets/03_DictionariesAndSets.ipynb)
 - [ ] 文本和字节序列（Text and bytes）
 - [x] [一等函数（First-class functions）](./05_FirstClassFunctions/05_FirstClassFunctions.ipynb)
-- [ ] 使用一等函数实现设计模式（Design patterns with first class functions）
+- [x] [使用一等函数实现设计模式（Design patterns with first class functions）](./06_DesignPatternsWithFirstClassFunctions/06_DesignPatternsWithFirstClassFunctions.ipynb)
 - [ ] 函数装饰器和闭包（Closures and decorators）
 - [ ] 对象引用、可变性以及垃圾回收（Object references, mutability and recycling）
 - [ ] 符合Python风格的对象（Pythonic objects）
