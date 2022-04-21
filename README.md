@@ -9,7 +9,7 @@ Notes for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 - [x] [一等函数（First-class functions）](./05_FirstClassFunctions/05_FirstClassFunctions.ipynb)
 - [x] [使用一等函数实现设计模式（Design patterns with first class functions）](./06_DesignPatternsWithFirstClassFunctions/06_DesignPatternsWithFirstClassFunctions.ipynb)
 - [x] [函数装饰器和闭包（Closures and decorators）](./07_ClosuresAndDecorators/07_ClosuresAndDecorators.ipynb)
-- [ ] 对象引用、可变性以及垃圾回收（Object references, mutability and recycling）
+- [x] [对象引用、可变性以及垃圾回收（Object references, mutability and recycling）](./08_ObjectReferencesAndMutabilityAndRecycling/08_ObjectReferencesAndMutabilityAndRecycling.ipynb)
 - [ ] 符合Python风格的对象（Pythonic objects）
 - [ ] 序列的修改、散列和切片（Sequence hacking, hashing and slicing）
 - [ ] 接口：从协议到抽象基类（Interfaces, protocols and ABCs）
