@@ -12,7 +12,7 @@ Notes for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 - [x] [对象引用、可变性以及垃圾回收（Object references, mutability and recycling）](./08_ObjectReferencesAndMutabilityAndRecycling/08_ObjectReferencesAndMutabilityAndRecycling.ipynb)
 - [x] [符合Python风格的对象（Pythonic objects）](./09_PythonicObjects/09_PythonicObjects.ipynb)
 - [x] [序列的修改、散列和切片（Sequence hacking, hashing and slicing）](./10_SequenceHackingHashingAndSlicing/10_SequenceHackingHashingAndSlicing.ipynb)
-- [ ] 接口：从协议到抽象基类（Interfaces, protocols and ABCs）
+- [x] [接口：从协议到抽象基类（Interfaces, protocols and ABCs）](./11_InterfacesProtocolsAndABSs/11_InterfacesProtocolsAndABSs.ipynb)
 - [ ] 继承的优缺点（Inheritance: for good or for worse）
 - [ ] 正确重载运算符（Operator overloading: doing it right）
 - [ ] 可迭代的对象、迭代器和生成器（Iterables, iterators and generators）
