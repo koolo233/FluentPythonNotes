@@ -14,7 +14,7 @@ Notes for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 - [x] [序列的修改、散列和切片（Sequence hacking, hashing and slicing）](./10_SequenceHackingHashingAndSlicing/10_SequenceHackingHashingAndSlicing.ipynb)
 - [x] [接口：从协议到抽象基类（Interfaces, protocols and ABCs）](./11_InterfacesProtocolsAndABSs/11_InterfacesProtocolsAndABSs.ipynb)
 - [x] [继承的优缺点（Inheritance: for good or for worse）](./12_InheritanceForGoodOrForWorse/12_InheritanceForGoodOrForWorse.ipynb)
-- [ ] 正确重载运算符（Operator overloading: doing it right）
+- [x] [正确重载运算符（Operator overloading: doing it right）](./13_OperatorOverloadingDoingItRight/13_OperatorOverloadingDoingItRight.ipynb)
 - [ ] 可迭代的对象、迭代器和生成器（Iterables, iterators and generators）
 - [ ] 上下文管理器和else模块（Context managers and something else）
 - [ ] 协程（Coroutines）
