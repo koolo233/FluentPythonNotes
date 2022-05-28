@@ -18,7 +18,7 @@ Notes for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 - [x] [可迭代的对象、迭代器和生成器（Iterables, iterators and generators）](./14_IterablesIteratorsAndGenerators/14_IterablesIteratorsAndGenerators.ipynb)
 - [x] [上下文管理器和else模块（Context managers and something else）](./15_ContextManagersAndSomethingElse/15_ContextManagersAndSomethingElse.ipynb)
 - [x] [协程（Coroutines）](./16_Coroutines/16_Coroutines.ipynb)
-- [ ] 使用future处理并发（Concurrency with futures）
+- [x] [使用futures处理并发（Concurrency with futures）](./17_ConcurrencyWithFutures/17_ConcurrencyWithFutures.ipynb)
 - [ ] 使用asyncio包处理并发（Concurrency with asyncio）
 - [ ] 动态属性和特性（Dynamic attributes and properties）
 - [ ] 属性描述符（Attribute descriptors）
