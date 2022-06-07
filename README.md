@@ -20,6 +20,6 @@ Notes for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 - [x] [协程（Coroutines）](./16_Coroutines/16_Coroutines.ipynb)
 - [x] [使用futures处理并发（Concurrency with futures）](./17_ConcurrencyWithFutures/17_ConcurrencyWithFutures.ipynb)
 - [ ] 使用asyncio包处理并发（Concurrency with asyncio）
-- [ ] 动态属性和特性（Dynamic attributes and properties）
-- [ ] 属性描述符（Attribute descriptors）
+- [x] [动态属性和特性（Dynamic attributes and properties）](./19_DynamicAttributesAndProperties/19_DynamicAttributesAndProperties.ipynb)
+- [x] [属性描述符（Attribute descriptors）](./20_AttributeDescriptors/20_AttributeDescriptors.ipynb)
 - [ ] 类元编程（Class metaprogramming）
