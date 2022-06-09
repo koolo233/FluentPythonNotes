@@ -22,4 +22,4 @@ Notes for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 - [ ] 使用asyncio包处理并发（Concurrency with asyncio）
 - [x] [动态属性和特性（Dynamic attributes and properties）](./19_DynamicAttributesAndProperties/19_DynamicAttributesAndProperties.ipynb)
 - [x] [属性描述符（Attribute descriptors）](./20_AttributeDescriptors/20_AttributeDescriptors.ipynb)
-- [ ] 类元编程（Class metaprogramming）
+- [x] [类元编程（Class metaprogramming）](./21_ClassMetaProgramming/21_ClassMetaProgramming.ipynb)
