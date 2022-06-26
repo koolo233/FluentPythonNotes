@@ -5,7 +5,7 @@ Notes for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 - [x] [Python数据模型（the Python Data Model）](./01_PythonDataModel/01_PythonDataModel.ipynb)
 - [x] [序列构成的数组（An array of sequences）](./02_AnArrayofSequences/02_AnArrayofSequences.ipynb)
 - [x] [字典和集合（Dictionaries and sets）](./03_DictionariesAndSets/03_DictionariesAndSets.ipynb)
-- [ ] 文本和字节序列（Text and bytes）
+- [x] [文本和字节序列（Text and bytes）](./04_TextAndBytes/04_TextAndBytes.ipynb)
 - [x] [一等函数（First-class functions）](./05_FirstClassFunctions/05_FirstClassFunctions.ipynb)
 - [x] [使用一等函数实现设计模式（Design patterns with first class functions）](./06_DesignPatternsWithFirstClassFunctions/06_DesignPatternsWithFirstClassFunctions.ipynb)
 - [x] [函数装饰器和闭包（Closures and decorators）](./07_ClosuresAndDecorators/07_ClosuresAndDecorators.ipynb)
